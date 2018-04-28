@@ -48,7 +48,7 @@ The user will also be notified in the command line interface on which PORT its c
 
 
 ### Author
-* [Ejike Onwei](https://github.com/reyhenry38)
+* [Ejike Onwe](https://github.com/reyhenry38)
 
 ### License
 This project is licensed under the MIT [License](https://github.com/reyhenry38/mongo-news-scraper/blob/master/LICENSE.md)
