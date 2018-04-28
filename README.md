@@ -2,7 +2,7 @@
 Mongo News Scaper is web application that scrapes news from Petapixel's photography web site. I made the app with mongoose and Cheerio technologies among other ancillary technologies.
 
 
-<img width="400" alt="mongoscraper" src="https://user-images.githubusercontent.com/31670361/39391602-33b5b4be-4a74-11e8-88af-8b217e14b790.png">
+<img width="1121" alt="mongoscraper" src="https://user-images.githubusercontent.com/31670361/39391602-33b5b4be-4a74-11e8-88af-8b217e14b790.png">
 
 
 
